@@ -57,7 +57,7 @@
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<!-- <br>
+<br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
-</a> -->
+  <img src="svg/QUANG221222-quotes.svg" width="846" height="150" alt="NguyenNhatQuang221222" />
+</a>

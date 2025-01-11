@@ -41,14 +41,14 @@
   <!-- <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a> -->
-  <a href="https://facebook.com/nhatQuangDev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nhatquangdev-facebook" />
+  <a href="https://facebook.com/NhatQuangCoder" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NhatQuangCoder-facebook" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/nhatQuangDev" target="blank">
+  <!-- <a href="https://www.linkedin.com/in/NhatQuangCoder" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="QUANG221222-linkedin" />
   </a> -->
-  <a href="https://instagram.com/nhatQuangDev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nhatquangdev-instagram" />
+  <a href="https://instagram.com/NhatQuangCoder" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="NhatQuangCoder-instagram" />
   </a>
   <a href="mailto:nguyennhatquang.2509@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="QUANG221222-email" />

@@ -6,12 +6,6 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=F7DF1E" alt="C logo" title="C" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=C++&logoColor=F7DF1E" alt="C++ logo" title="C++" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/python-282C34?logo=C&logoColor=F7DF1E" alt="python logo" title="python" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>

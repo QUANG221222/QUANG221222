@@ -44,9 +44,9 @@
   <a href="https://facebook.com/NhatQuangCoder" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NhatQuangCoder-facebook" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/NhatQuangCoder" target="blank">
+  <a href="www.linkedin.com/in/quang221222" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="QUANG221222-linkedin" />
-  </a> -->
+  </a>
   <a href="https://instagram.com/NhatQuangCoder" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="NhatQuangCoder-instagram" />
   </a>

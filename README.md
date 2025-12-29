@@ -44,7 +44,7 @@
   <a href="https://facebook.com/NhatQuangCoder" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NhatQuangCoder-facebook" />
   </a>
-  <a href="www.linkedin.com/in/quang221222" target="blank">
+  <a href="https://linkedin.com/in/quang221222" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="QUANG221222-linkedin" />
   </a>
   <a href="https://instagram.com/NhatQuangCoder" target="blank">
